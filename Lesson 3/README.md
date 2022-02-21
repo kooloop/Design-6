@@ -2,7 +2,7 @@
 
 In this lab we were instructed to use Python3 to run multiple scripts that were provided for us.
 
-<img width="427" alt="Instructions" src="https://user-images.githubusercontent.com/78048229/155027172-147ae5ea-a0a1-490e-9d10-a9c508b739e1.png">
+<img width="955" alt="Instructions" src="https://user-images.githubusercontent.com/78048229/155027172-147ae5ea-a0a1-490e-9d10-a9c508b739e1.png">
 
 ## Submission
 
