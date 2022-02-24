@@ -11,3 +11,6 @@ The lab was completed using the msys2 terminal on Windows 10.
 <img width="955" alt="Part1" src="https://user-images.githubusercontent.com/78048229/155027500-0ce2fabb-6ac1-4aa4-8ca4-a2d002beca97.png">
 
 <img width="960" alt="Part2" src="https://user-images.githubusercontent.com/78048229/155027521-4a51d60f-725c-4a45-8985-68febf01e517.png">
+
+<img width="960" alt="Part3" src="https://user-images.githubusercontent.com/78048229/155442426-88fb0ebd-554a-47f2-abfa-a8564ff0f1e3.png">
+
